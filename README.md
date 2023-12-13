@@ -1,4 +1,4 @@
-#### How to add this project into your local chrome extension
+### How to add this project into your local chrome extension
 
 ##### Step 1:
 
