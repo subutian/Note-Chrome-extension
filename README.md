@@ -1,4 +1,6 @@
-# How to add this project into your local chrome extension
+# https://subutian.github.io/NotePad-Chrome-extension/
+
+## How to add this project into your local chrome extension
 
 ##### Step 1:
 
